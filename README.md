@@ -49,4 +49,4 @@ python main.py
 
 ## Status
 
-🚧 Work in progress — currently supports single-chain workflows, multi-branch conditional logic in development.
+Work in progress, currently supports single-chain workflows, multi-branch conditional logic is still unfinished.
